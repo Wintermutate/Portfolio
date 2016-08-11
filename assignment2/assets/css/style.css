@@ -1,5 +1,6 @@
 body {
 	padding-top: 5%;
+	padding-bottom: 5%;
 }
 #social {
 	margin-top: 12%;
@@ -12,7 +13,7 @@ body {
 	width: 60px;
 }
 .footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 60px;
